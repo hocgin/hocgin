@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/@hocgin-博客-blue?style=flat)](https://hocg.in/) 
+[![](https://img.shields.io/badge/@hocgin-简历-blue?style=flat)](https://resume.hocg.in/) 
+[![](https://img.shields.io/badge/@hocgin-项目-blue?style=flat)](https://projects.hocg.in/) 
+[![](https://img.shields.io/badge/@hocgin-导航-blue?style=flat)](https://panda.hocg.in/)
+
+
 
 <!--
 **hocgin/hocgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
