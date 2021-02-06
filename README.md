@@ -5,11 +5,9 @@
 [![](https://img.shields.io/badge/@hocgin-导航-blue?style=flat)](https://panda.hocg.in/)
 [![](https://img.shields.io/badge/@hocgin-组件库-blue?style=flat)](https://gin.hocg.in/)
 
-![hocgin's github stats](https://github-readme-stats.vercel.app/api?username=hocgin&show_icons=true&hide_title=true&hide_border=true)
-
-### Template Project 🎉
-[Taro-Starter](https://github.com/hocgin/taro-starter)  
-[Antd-Starter](https://github.com/hocgin/antd-starter)
+![hocgin's github stats](https://github-readme-stats.vercel.app/api?username=hocgin&show_icons=true&hide_title=true&hide_border=true)  
+· [Taro-Starter](https://github.com/hocgin/taro-starter)  
+· [Antd-Starter](https://github.com/hocgin/antd-starter)
 
 <img src="http://cdn.hocgin.top/uPic/mp-logo.jpg" width="100" alt="微信公众号"/>
 
