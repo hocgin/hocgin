@@ -7,9 +7,10 @@
 
 ![hocgin's github stats](https://github-readme-stats.vercel.app/api?username=hocgin&show_icons=true&hide_title=true&hide_border=true)
 
-#### Template Project 🔜
 - [Taro-Starter](https://github.com/hocgin/taro-starter)
 - [Antd-Starter](https://github.com/hocgin/antd-starter)
+
+<img src="http://cdn.hocgin.top/uPic/mp-logo.jpg" width="100" alt="微信公众号"/>
 
 <!--
 **hocgin/hocgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
