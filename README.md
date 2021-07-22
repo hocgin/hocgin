@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/@hocgin-简历-blue?style=flat)](https://resume.hocg.in/) 
 [![](https://img.shields.io/badge/@hocgin-项目-blue?style=flat)](https://projects.hocg.in/) 
 [![](https://img.shields.io/badge/@hocgin-导航-blue?style=flat)](https://panda.hocg.in/)
-[![](https://img.shields.io/badge/@hocgin-组件库-blue?style=flat)](https://gin.hocg.in/)
+[![](https://img.shields.io/badge/@hocgin-UI-blue?style=flat)](https://ui.hocg.in/)
 [![](https://img.shields.io/badge/@hocgin-.top-blue?style=flat)](https://www.hocgin.top/)
 
 ![hocgin's github stats](https://github-readme-stats.vercel.app/api?username=hocgin&show_icons=true&hide_title=true&hide_border=true)  
