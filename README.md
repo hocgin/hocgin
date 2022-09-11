@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/starter-spring--boot-green?style=flat)](https://github.com/hocgin/spring-boot-starters-project)
 [![](https://img.shields.io/badge/starter-antd-green?style=flat)](https://github.com/hocgin/antd-starter)
 [![](https://img.shields.io/badge/starter-taro-green?style=flat)](https://github.com/hocgin/taro-starte)
-[![](https://img.shields.io/badge/starter-action-green?style=flat)](https://github.com/search?q=user%3Ahocgin+action)
+[![](https://img.shields.io/badge/starter-action-green?style=flat)](https://github.com/hocgin/action-starter)
 
 [![](https://img.shields.io/badge/package-maven-red?style=flat)](https://search.maven.org/search?q=g:in.hocg*)
 [![](https://img.shields.io/badge/package-npm-red?style=flat)](https://www.npmjs.com/search?q=%40hocgin)
