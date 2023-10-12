@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/iFeed-Beta-blue?style=flat)](https://feed.hocgin.com/) 
 [![](https://img.shields.io/badge/@hocgin-博客-blue?style=flat)](https://hocg.in/) 
 [![](https://img.shields.io/badge/@hocgin-简历-blue?style=flat)](https://resume.hocg.in/) 
 [![](https://img.shields.io/badge/@hocgin-项目(logspot)-blue?style=flat)](https://logspot.hocgin.top/)
