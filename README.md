@@ -16,8 +16,6 @@
 [![](https://img.shields.io/badge/starter-taro-green?style=flat)](https://github.com/hocgin/taro-starter)
 [![](https://img.shields.io/badge/starter-action-green?style=flat)](https://github.com/hocgin/action-starter)
 
-![hocgin's github stats](https://github-readme-stats.vercel.app/api?username=hocgin&show_icons=true&hide_title=true&hide_border=true)  
-
 <img src="http://cdn.hocgin.top/uPic/mp-logo.jpg" width="100" alt="微信公众号"/> 👈
 
 <!--
